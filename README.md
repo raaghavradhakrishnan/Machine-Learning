@@ -12,4 +12,4 @@ This repository contains the developemnt of Machine Learning Projects as a part 
 7. Decision Trees (Random Forest and Gradient Boosted)
 8. Support Vector Machine (SVM)
 9. Clustering (K-Means)
-10.Recommender Systems
+10. Recommender Systems     
